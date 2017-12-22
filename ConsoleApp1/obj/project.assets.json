@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\HabibKhan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\HabibKhan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\HabibKhan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\LinkedList.csproj",
+      "projectName": "LinkedList",
+      "projectPath": "C:\\Users\\HabibKhan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\LinkedList.csproj",
       "packagesPath": "C:\\Users\\HabibKhan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HabibKhan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
